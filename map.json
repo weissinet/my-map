@@ -41,7 +41,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/weissinet.github.io\/my-map\/index.html"
                 }],
