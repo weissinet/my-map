@@ -6,13 +6,12 @@
       <description>Most recent changes with links to updates.</description>
 <name>test?</name>
       <language>de</language>
-         <item>
-            <title>Version 4.3</title>
-						<sparkle:releaseNotesLink>
-							http://10.12.3.44:8080/test.rss
-						</sparkle:releaseNotesLink>
-            <pubDate>Wed, 09 Jan 2021 19:20:11 +0000</pubDate>
-            <enclosure url="https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/b464edc8-1675-4eb2-980c-58718c31c010/TeamSIP_4.3.0_B1369.app.zip?sv=2019-02-02&amp;sr=c&amp;sig=zh0AWzZWF%2F3Ss7jJT2nbaUFcH7mlTgRytdQ1Be3rgjQ%3D&amp;se=2021-12-18T19%3A57%3A54Z&amp;sp=r" sparkle:version="1369" sparkle:shortVersionString="4.3.0" type="application/octet-stream" />
-         </item>
+        <item>
+<title>Version 4.3.0 (1371)</title>
+<description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><p>No changelog given</p> </div></description>
+<pubDate>Fri, 17 Dec 2021 20:21:53 GMT</pubDate>
+<enclosure sparkle:version="1371" sparkle:shortVersionString="4.3.0" url="https://appcenter-filemanagement-distrib2ede6f06e.azureedge.net/17aac5e8-415e-404e-b78f-80ed604c4595/TeamSIP_4.3.0_B1371.dmg?sv=2019-02-02&sr=c&sig=nBuW9dTDw4EAXEaxLXPpArRIH4R8L1WgPEvbJxd7SJg%3D&se=2021-12-18T20%3A23%3A06Z&sp=r" length="14755456" type="application/octet-stream"/>
+<sparkle:minimumSystemVersion/>
+</item>
    </channel>
 </rss>
