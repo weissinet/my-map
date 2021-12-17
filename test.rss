@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Your Great App's Changelog</title>
+      <link>https://www.icloud.com/iclouddrive/043zZ7uyVM5YHSvst_VShsaeQ#test</link>
+      <description>Most recent changes with links to updates.</description>
+<name>test?</name>
+      <language>de</language>
+         <item>
+            <title>Version 4.2</title>
+						<sparkle:releaseNotesLink>
+							http://10.12.3.44:8080/test.rss
+						</sparkle:releaseNotesLink>
+            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
+            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="1500" sparkle:shortVersionString="4.2.2" length="1623481" type="application/octet-stream" />
+         </item>
+   </channel>
+</rss>
