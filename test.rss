@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>Your Great App's Changelog</title>
-      <link>https://www.icloud.com/iclouddrive/043zZ7uyVM5YHSvst_VShsaeQ#test</link>
+      <link>https://weissinet.github.io/my-map/test.rss</link>
       <description>Most recent changes with links to updates.</description>
 <name>test?</name>
       <language>de</language>
          <item>
-            <title>Version 4.2</title>
+            <title>Version 4.3</title>
 						<sparkle:releaseNotesLink>
 							http://10.12.3.44:8080/test.rss
 						</sparkle:releaseNotesLink>
-            <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="https://appcenter-filemanagement-distrib4ede6f06e.azureedge.net/132e4af7-4c35-41e6-9980-de5ec24d53a8/TeamSIP_4.2.1_B1364.dmg?sv=2019-02-02&amp;sr=c&amp;sig=sWYWt1zU%2FJrUMmd7rDqNJgzv2COhgiCljtHuV8fpBl4%3D&amp;se=2021-12-18T12%3A04%3A28Z&amp;sp=r" sparkle:version="1500" sparkle:shortVersionString="4.2.2" type="application/octet-stream" />
+            <pubDate>Wed, 09 Jan 2021 19:20:11 +0000</pubDate>
+            <enclosure url="https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/a9d4184a-8f27-41fc-a70b-4f476950e4c9/TeamSIP_4.3.0_B1365.app.zip?sv=2019-02-02&amp;sr=c&amp;sig=Ul%2FsroISEiDJL3%2BkPEB0foD7tG27TJdWrdbWeG4dLJg%3D&amp;se=2021-12-18T16%3A20%3A30Z&amp;sp=r" sparkle:version="1365" sparkle:shortVersionString="4.3.0" type="application/octet-stream" />
          </item>
    </channel>
 </rss>
