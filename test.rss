@@ -12,7 +12,7 @@
 							http://10.12.3.44:8080/test.rss
 						</sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2021 19:20:11 +0000</pubDate>
-            <enclosure url="https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/a9d4184a-8f27-41fc-a70b-4f476950e4c9/TeamSIP_4.3.0_B1365.app.zip?sv=2019-02-02&amp;sr=c&amp;sig=Ul%2FsroISEiDJL3%2BkPEB0foD7tG27TJdWrdbWeG4dLJg%3D&amp;se=2021-12-18T16%3A20%3A30Z&amp;sp=r" sparkle:version="1370" sparkle:shortVersionString="4.3.0" type="application/octet-stream" />
+            <enclosure url="https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/b464edc8-1675-4eb2-980c-58718c31c010/TeamSIP_4.3.0_B1369.app.zip?sv=2019-02-02&amp;sr=c&amp;sig=zh0AWzZWF%2F3Ss7jJT2nbaUFcH7mlTgRytdQ1Be3rgjQ%3D&amp;se=2021-12-18T19%3A57%3A54Z&amp;sp=r" sparkle:version="1369" sparkle:shortVersionString="4.3.0" type="application/octet-stream" />
          </item>
    </channel>
 </rss>
